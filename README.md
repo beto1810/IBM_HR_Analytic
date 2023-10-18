@@ -18,14 +18,11 @@
 # :briefcase: Business Case and Requirement
 
 
-You are a Data Analyst working for a Human Resources Department. You are tasked with preparing a presentation to present answers for the attrition of Employees in Company. And Building the Machine Learning Model to predict the employee who has high possibility to attrit from company.
+You are a Data Analyst working for a Human Resources Department. You are tasked with preparing a presentation to present answers for the attrition of employees in Company. And Building the Machine Learning Model to predict the employee who has high possibility to attrit from company.
 
 ❔ The presentation should include at a minimum the following information: 
 - Basic Analysis for reasons why Employees have willing to leave company and ways to improve it.
 - The predict Model for attrition in the future.
-
-
-
 
 ---
 
