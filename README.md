@@ -8,8 +8,8 @@
 
 - [:briefcase: Business Case and Requirement](#briefcase-business-case-and-requirement)
 - [:bookmark_tabs:Example Datasets](#bookmark_tabsexample-datasets)
-- [A. Analysis](#a-data-exploration-and-cleansing)
-- [B. Building Machine Learning Model](#b-analysis)
+- [A. Analysis](#a-data-analysis)
+- [B. Building Machine Learning Model](#)
 
 - [📃 What can you practice with this case study?](#what-can-you-practice-with-this-case-study)
 
@@ -208,7 +208,7 @@ Basicly, we have 4 dataset but only HR Analytics Data - Dataset would be used fo
 ---
 
 
-# A. [Data Analysis](#)
+# A. [Data Analysis](https://github.com/beto1810/IBM_HR_Analytic/blob/main/A.%20Analysis_Report.md)
 
 
 
