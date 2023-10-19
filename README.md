@@ -59,7 +59,7 @@ Provide information to analyze and building model
 - StockOptionLevel: 0 - Not Choose, 1-3 : Choose with different conversion rate.
 - TotalWorking Years: Working Experiences in Year
 - TrainingTimesLastYears
-- WorLifeBalance: 1 'Low', 2 'Medium', 3 'High', 4 'Very High'.
+- WorLifeBalance: 1 'Bad' ,2 'Good', 3 'Better', 4 'Best'
 - YearsAtCompany: Working Experience by year at current company
 - YearsInCurrentRole: How Long that employees standed in current position in year
 - YearSinceLastPromotion
