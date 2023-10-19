@@ -1,4 +1,4 @@
-# 🛒 IBM - Human Resources - Analysis Report
+![image](https://github.com/beto1810/IBM_HR_Analytic/assets/101379141/1a50adfb-e413-46c5-96f5-41b72ede39ee)# 🛒 IBM - Human Resources - Analysis Report
 
 
  ![image](https://github.com/beto1810/IBM_HR_Analytic/assets/101379141/717ea9fa-bd89-493c-8aa7-2a4ac5dc684e)
@@ -66,27 +66,28 @@ Provide information to analyze and building model
 - YearsWithCurrManager: How Long that employees cooperate with current manager in year
 
 
-<details><summary> 👆🏼 Click to expand Orders Dataset </summary>
+<details><summary> 👆🏼 Click to expand HR Analytics Dataset </summary>
 
 <div align="center">
 
-**Table: orders_dataset** 
+**Table: HR Analytics** 
 
 <div align="center">
 First 10 rows
 
-|order_id|customer_id|order_status|order_purchase_timestamp|order_approved_at|order_delivered_carrier_date|order_delivered_customer_date|order_estimated_delivery_date|
-|:----|:-----|:----|:----|:----|:----|:----|:----|
-e481f51cbdc54678b7cc49136f2d6af7|	9ef432eb6251297304e76186b10a928d|	delivered|	10/2/2017 10:56|10/2/2017 11:07|	10/4/2017 19:55|	10/10/2017 21:25|	10/18/2017|
-53cdb2fc8bc7dce0b6741e2150273451|	b0830fb4747a6c6d20dea0b8c802d7ef|	delivered|	7/24/2018 20:41|	7/26/2018 3:24|	7/26/2018 14:31|	8/7/2018 15:27|	8/13/2018|
-47770eb9100c2d0c44946d9cf07ec65d|	41ce2a54c0b03bf3443c3d931a367089|	delivered|	8/8/2018 8:38|	8/8/2018 8:55|	8/8/2018 13:50|	8/17/2018 18:06|	9/4/2018|
-949d5b44dbf5de918fe9c16f97b45f8a|	f88197465ea7920adcdbec7375364d82|	delivered|	11/18/2017 19:28|	11/18/2017 19:45|	11/22/2017 13:39|	12/2/2017 0:28|	12/15/2017|
-ad21c59c0840e6cb83a9ceb5573f8159|	8ab97904e6daea8866dbdbc4fb7aad2c|	delivered|	2/13/2018 21:18|	2/13/2018 22:20|	2/14/2018 19:46|	2/16/2018 18:17	|2/26/2018|
-a4591c265e18cb1dcee52889e2d8acc3|	503740e9ca751ccdda7ba28e9ab8f608|	delivered|	7/9/2017 21:57|	7/9/2017 22:10|	7/11/2017 14:58|	7/26/2017 10:57|	8/1/2017|
-136cce7faa42fdb2cefd53fdc79a6098|	ed0271e0b7da060a393796590e7b737a|	invoiced|	4/11/2017 12:22|	4/13/2017 13:25|||			|5/9/2017|
-6514b8ad8028c9f2cc2374ded245783f|	9bdf08b4b3b52b5526ff42d37d47f222|	delivered|	5/16/2017 13:10|	5/16/2017 13:22|	5/22/2017 10:07|	5/26/2017 12:55|	6/7/2017|
-76c6e866289321a7c93b82b54852dc33|	f54a9f0e6b351c431402b8461ea51999|	delivered|	1/23/2017 18:29|	1/25/2017 2:50|	1/26/2017 14:16|	2/2/2017 14:08|	3/6/2017|
-e69bfb5eb88e0ed6a785585b27e16dbf|	31ad1d1b63eb9962463f764d4e6e0c9d|	delivered|	7/29/2017 11:55|	7/29/2017 12:05|	8/10/2017 19:45|	8/16/2017 17:14|	8/23/2017|
+|"Age|	Attrition|	BusinessTravel|	DailyRate|	Department|	DistanceFromHome|	Education|	EducationField|	EmployeeCount|	EmployeeNumber|	EnvironmentSatisfaction|	Gender|	HourlyRate|	JobInvolvement|	JobLevel|	JobRole|	JobSatisfaction|	MaritalStatus|	MonthlyIncome|	MonthlyRate|	NumCompaniesWorked|	Over18|	OverTime|	PercentSalaryHike|	PerformanceRating|	RelationshipSatisfaction|	StandardHours|	StockOptionLevel|	TotalWorkingYears|	TrainingTimesLastYear|	WorkLifeBalance|	YearsAtCompany|	YearsInCurrentRole|	YearsSinceLastPromotion|	YearsWithCurrManager"|
+|:----|:-----|:----|:----|:----|:----|:----|:----|:----|:-----|:----|:----|:----|:----|:----|:----|:----|:-----|:----|:----|:----|:----|:----|:----|:----|:-----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|"41	|Yes|	Travel_Rarely|	1102|	Sales|	1|	2|	Life Sciences|	1	|1	|2	|Female|	94	|3	|2	|Sales Executive	|4	|Single	|5993	|19479	|8	|Y	|Yes	|11	|3	|1	|80	|0	|8	|0	|1	|6	|4	|0	|5"|
+|"49	|No|	Travel_Frequently|	279	| Research & Development|	8 |	1 |	Life Sciences|	1|	2|	3	|Male|	61	|2	|2	|Research Scientist|	2	|Married|	5130	|24907	|1|	Y	|No|	23	|4	|4|	80|	1	|10|	3|	3|	10|	7|	1|	7"|
+|"37	|Yes|	Travel_Rarely|	1373	| Research & Development	|2	| 2	|Other|	1	|4	|4	|Male	|92	|2	|1	|Laboratory Technician	|3	|Single	|2090	|2396	|6	|Y	|Yes	|15	|3	|2	|80	|0	|7	|3	|3	|0	|0	|0	|0"|
+|"33	|No|	Travel_Frequently|	1392	| Research & Development|	3|	4	|Life Sciences|	1	|5	|4	|Female|	56|	3	|1	|Research Scientist|	3	|Married|	2909|	23159|	1	|Y	|Yes|	11|	3|	3|	80|	0|	8|	3|	3|	8|	7|	3|	0"|
+|"27	|No|	Travel_Rarely	|591	|Research & Development	|2	| 1	|Medical|	1	|7	|1	|Male	|40	|3	|1	|Laboratory Technician	|2	|Married	|3468	|16632	|9	|Y	|No	|12	|3	|4	|80	|1	|6	|3	|3	|2	|2	|2	|2"|
+|"32	|No|	Travel_Frequently|	1005|	Research & Development|	2|	2	|Life Sciences|	1	|8	|4	|Male	|79	|3	|1	|Laboratory Technician	|4|	Single|	3068	|11864|	0	|Y	|No	|13	|3	|3	|80	|0	|8	|2|	2	|7	|7	|3	|6"|
+|"59	|No|	Travel_Rarely	|1324	|Research & Development	|3	| 3	|Medical|	1	|10	|3	|Female	|81	|4	|1	|Laboratory Technician	|1	|Married	|2670	|9964	|4	|Y	|Yes	|20	|4	|1	|80	|3	|12	|3	|2	|1	|0	|0	|0"|
+|"30	|No|	Travel_Rarely	|1358	|Research & Development	|24	| 1	|Life Sciences|	1	|11	|4	|Male	|67	|3	|1	|Laboratory Technician	|3	|Divorced|	2693	|13335|	1	|Y	|No|	22|	4|	2|	80|	1|	1|	2|	3|	1|	0|	0|	0"|
+|"38	|No|	Travel_Frequently|	216|	Research & Development|	23 |	|3	Life Sciences|	1	|12	|4	|Male	|44	|2	|3	|Manufacturing Director	|3	|Single	|9526	|8787	|0	|Y	|No	|21	|4	|2	|80	|0	|10	|2	|3	|9	|7	|1	|8"|
+|"36	|No|	Travel_Rarely	|1299|	Research & Development	|27 |	3	|Medical|	1	|13|	3|	Male|	94|	3|	2|	Healthcare Representative|	3	|Married|	5237|	16577|	6|	Y	|No|	13|	3|	2|	80|	2|	17|	3|	2|	7|	7|	7|	7"|
+
 
 </div>
 </div>
