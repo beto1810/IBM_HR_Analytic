@@ -76,7 +76,7 @@ On average, employees who are more inclined to leave the company have spent appr
 
 # 5. Department #
 
-![image](https://github.com/beto1810/IBM_HR_Analytic/assets/101379141/c5bd536b-7e55-4f14-ac8c-692634ed5a6e)
+![image](https://github.com/beto1810/IBM_HR_Analytic/assets/101379141/a45b619f-59e7-4944-9ed6-122e582bb123)
 
 - Departments like Sales and HR, which frequently face the pressure of meeting deadlines and goals, exhibit a higher motivation to leave the company compared to departments like R&D.
   
