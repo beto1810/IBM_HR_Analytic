@@ -41,9 +41,9 @@
 ![image](https://github.com/beto1810/Online_Hotel_Web_Search/assets/101379141/a65496bc-17d6-4f2f-b540-b2bdd3d0ca92)
 
 - Gender and Attrition: The rate of attrition appears to be consistent between male and female employees, with no significant gender-based differences in the decision to leave the company.
-Age and Attrition:
 
-- Notably, younger employees show a higher tendency to leave the company. This could be attributed to their stage in life, as they may be less settled and more open to exploring different career opportunities. The average age of employees who have left the company is 37, while the average age of current employees is 40, suggesting that the younger workforce is more prone to attrition.
+
+- Age and Attrition: Notably, younger employees show a higher tendency to leave the company. This could be attributed to their stage in life, as they may be less settled and more open to exploring different career opportunities. The average age of employees who have left the company is 37, while the average age of current employees is 40, suggesting that the younger workforce is more prone to attrition.
   
 - Marital Status and Attrition: Employee marital status plays a role in attrition. Single employees, who may be less impacted by family obligations or personal crises compared to divorced employees, exhibit a higher propensity to seek new employment opportunities.
 Approximately 25% of single employees have left the company in pursuit of more interesting work environments, whereas only about 10% of married and divorced employees have made the same choice.
