@@ -53,33 +53,58 @@ Approximately 25% of single employees have left the company in pursuit of more i
 
 # 3. Working Experience #
 
-![image](https://user-images.githubusercontent.com/101379141/201824685-4ad468b5-be37-463c-89cc-5ecc6ffbec0f.png)
-
-![image](https://user-images.githubusercontent.com/101379141/201813758-920b09b7-0d5f-46f1-9365-f8359f36bdc6.png)
+![image](https://github.com/beto1810/IBM_HR_Analytic/assets/101379141/761ea482-7a2e-4374-9832-0626a06ab2bd)
 
 
-- After researching about the tourism information, I believe that the Country that we are doing analysis is Vietnam because of these reasons:
-  - Revenue per booking of dataset is $156.2 (about 4 million vnd) comparing to about 6 million vnd of total traveling fee including hotel, eating, transporting, ... (internet information) could be approximate.
-  - Excluding Tet Holiday and New Year Holiday (people refer comeback hometown instead of traveling), Other time of Vietnam's holiday is period of month (dataset) having high rate of conversion.
+- A significant factor influencing employee attrition is the level of attachment or tenure within the company. Employees who exhibit a higher likelihood of leaving the company tend to have shorter tenures.
+On average, employees who are more inclined to leave the company have spent approximately 5.13 years at the company. In contrast, those who are still with the company have an average tenure of 7.37 years.
 
+- Similarly, the average number of years with the current manager and in the current position is lower for employees considering leaving, at 2.9 years, compared to those who have chosen to stay, with averages of 4.4 years with their current manager and 4.5 years in their current position.
+  
+- This data suggests a strong correlation between employee attachment, as indicated by years at the company, years with the current manager, and years in the current position, and the likelihood of attrition. Those with shorter tenures and less attachment to their current roles or supervisors are more prone to leaving the company, possibly in search of better opportunities or a change in work environment. Understanding these attachment dynamics can be crucial for developing strategies to improve employee retention.
+  
 ---
 # 4. Job Satisfaction & Job Involvement #
 
-- It can be seen that Website X had good cooperation with Advertiser A & C.
-  - Understand the demanding of local market. 
-  - Have clearly strategy for different customer segment
-  - Contribute greatly to the total revenue of Website X (over 80% of total revenue)
+![image](https://github.com/beto1810/IBM_HR_Analytic/assets/101379141/6db77737-6148-4d77-ab3c-e9461d8a9c29)
 
-- However, Advertiser B did a poor performance 
-  - Does not catch up with the demanding of customer. 
-  - Have unclear strategy.
+- Graphs illustrating job satisfaction and job involvement reveal a striking trend. Employees who have received low ratings of 1 exhibit a significant tendency to leave the company. This trend is corroborated by the average scores of attrited employees, which are notably lower than those of retained employees.
+
+- Several other factors significantly contribute to employee attrition, including overtime, business travel, and working life balance. Employees who frequently engage in overtime work or extensive business travel are more likely to leave the company when compared to those with less involvement in these activities.
+
+- A critical aspect is the impact of working life balance on employee attrition. When employees struggle to balance their work and personal lives, it can exert considerable pressure on their mental well-being, potentially resulting in reduced job performance and job satisfaction. Notably, employees who rate their working life balance as low, typically represented by a score of 1, have an alarming attrition rate of over 30%.
 
 # 5. Department #
 
+![image](https://github.com/beto1810/IBM_HR_Analytic/assets/101379141/c5bd536b-7e55-4f14-ac8c-692634ed5a6e)
+
+- Departments like Sales and HR, which frequently face the pressure of meeting deadlines and goals, exhibit a higher motivation to leave the company compared to departments like R&D.
+  
+- A detailed examination reveals that managers, who possess the ability to handle job pressure and have strong connections with the company, are significantly less likely to leave their positions. The attrition rate for managers consistently remains below 10%.
+  
+- The job level also plays a crucial role in attrition. As employees advance to higher job levels, their likelihood of leaving the company decreases. Higher-level job positions have lower attrition rates.
+   
 # 6. Compensation & Benefit #
 
-# 7. Conclusion & Recommendation #
+![image](https://github.com/beto1810/IBM_HR_Analytic/assets/101379141/c725dc08-c119-4f52-87a7-3ce4425b0e4a)
+
+Implementing effective retention strategies is crucial to maintaining a sustainable workforce. Key components of these strategies include salary, stock options, and training for development.
+
+- Notably, the data shows that the Low Income Group, typically earning less than $5,000, has the highest attrition rate. This suggests that salary levels are a significant factor in employee retention. Additionally, employees who do not believe in the sustainable development of the company, often indicated by their choice to forego stock options, exhibit a higher likelihood of leaving the company when compared to other groups.
+
+- Another noteworthy aspect is the impact of training. Employees who did not receive any training in the previous year are twice as likely to quit compared to those who received training (28% & 15%). Training programs can have a substantial influence on employee satisfaction, engagement, and skill development, making them a valuable tool in reducing attrition rates.
+
+# 7. Conclusion & Recommendation
   
-- 🚩 So, I believe that Website X should:
-  - Focus more on quality Advertisers as A & C. 
-  - Consider about cooperation with company B. If B want to continue be a partner, It has to have a better planning for next year. Change and update their source with better quality, update knowledge.
+🚩 So, I believe that by addressing these factors and implementing these recommendations, you can create a more favorable work environment and improve employee retention, ultimately contributing to the long-term success of your organization :
+
+  - Competitive Salary Structures: Ensure that salary levels are competitive, particularly for low-income groups. Review and adjust compensation packages to align with industry standards to prevent attrition driven by dissatisfaction with income.
+  - Stock Options and Employee Buy-In: Encourage employees to invest in the company's future by providing attractive stock options. This can create a sense of ownership and commitment to the organization's long-term success.
+  - Training and Development Programs: Invest in comprehensive training and development programs for employees. This not only enhances their skills but also boosts job satisfaction and engagement. Ensure that all employees have access to training opportunities.
+  - Focus on Job Satisfaction: Pay attention to factors impacting job satisfaction, such as workload, work-life balance, and manager-employee relationships. Addressing these issues can reduce attrition rates, especially in high-pressure departments like Sales and HR.
+  - Mentoring and Leadership Development: Implement mentoring and leadership development programs, especially for employees in managerial roles. Building strong connections and leadership skills can significantly reduce turnover in these positions.
+  - Employee Engagement and Communication: Foster a culture of open communication and employee engagement. Regularly solicit feedback from employees and act on their concerns and suggestions. This creates a sense of belonging and commitment.
+  - Recognition and Rewards: Recognize and reward employees for their contributions and achievements. This can boost morale and job involvement, making employees less likely to consider leaving the company. Consider implementing performance-based incentives that reward employees for meeting targets and goals, especially in departments with high pressure to achieve deadlines and objectives.
+  - Work-Life Balance Initiatives: Promote work-life balance initiatives, such as flexible work hours, remote work options, and stress management programs. This can help reduce the pressure on employees and improve their well-being.
+  - Regular Attrition Analysis: Continuously monitor and analyze attrition data to identify trends and patterns. This enables you to adapt retention strategies as needed and stay proactive in retaining talent.    
+  
