@@ -28,16 +28,43 @@ You are a Data Analyst working for a Human Resources Department. You are tasked 
 
 # :bookmark_tabs:Example Datasets
 
-### ✔ Orders dataset
-Provide information about orders
-- order_id: unique ID of the order
-- customer_id: unique ID of the customer
-- order_status: order status
-- order_purchase_timestamp: time when the order was ordered
-- order_approved_at: time the order is approved
-- order_delivered_carrier_date: the time the item was delivered to the carrier
-- order_delivered_customer_date: the time the item was delivered to the customer
-- order_estimated_delivery_date: the estimated time the order will be delivered to the customer
+### ✔ HR_Analytics
+Provide information to analyze and building model
+- Age: Age of Employee.
+- Attrition: False for not attrition, True for attrition.
+- BusinessTravel: How often the employee make business trip.
+- DailyRate: Salary Rate by day
+- Department: Department of Employee
+- DistanceFromHome: Distance From Home to Workplace (km)
+- Education: Educational Level - 1 'Below College', 2 'College', 3 'Bachelor', 4 'Master', 5 'Doctor'
+- Education Field: Major Field of Employee
+- Employee Count: Dummy Variable
+- Employee Number
+- Environment Satisfaction: 1 'Low', 2 'Medium', 3 'High', 4 'Very High'.
+- Gender
+- HourlyRate: Salary Rate by Hour
+- Jobinvolvement: 1 'Low', 2 'Medium', 3 'High', 4 'Very High'.
+- JobLevel: 1 'Low', 2 'Medium', 3 'High', 4 'Very High'.
+- JobRole
+- MarialStatus: Status of Marriage
+- MonthlyIncome: Income by Month
+- MonthlyRate
+- NumcompaniesWorked: How many company that employees have worked since start working
+- Over18: Y - Yes & N - No
+- OverTime: True & False
+- PercentSalaryHike: The percent of increasing salary annualy
+- PerformanceRating: Performance Rate of Employee
+- RelationshipSatisfaction: 1 'Low', 2 'Medium', 3 'High', 4 'Very High'.
+- StandardHours: Standard Working Hour for Labor
+- StockOptionLevel: 0 - Not Choose, 1-3 : Choose with different conversion rate.
+- TotalWorking Years: Working Experiences in Year
+- TrainingTimesLastYears
+- WorLifeBalance: 1 'Low', 2 'Medium', 3 'High', 4 'Very High'.
+- YearsAtCompany: Working Experience by year at current company
+- YearsInCurrentRole: How Long that employees standed in current position in year
+- YearSinceLastPromotion
+- YearsWithCurrManager: How Long that employees cooperate with current manager in year
+
 
 <details><summary> 👆🏼 Click to expand Orders Dataset </summary>
 
