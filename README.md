@@ -1,4 +1,4 @@
-![image](https://github.com/beto1810/IBM_HR_Analytic/assets/101379141/1a50adfb-e413-46c5-96f5-41b72ede39ee)# 🛒 IBM - Human Resources - Analysis Report
+# 🛒 IBM - Human Resources - Analysis Report
 
 
  ![image](https://github.com/beto1810/IBM_HR_Analytic/assets/101379141/717ea9fa-bd89-493c-8aa7-2a4ac5dc684e)
