@@ -212,7 +212,7 @@ Basicly, we have 4 dataset but only HR Analytics Data - Dataset would be used fo
 
 
 
-# B. [Predict Machine Learning Model](#)
+# B. [Predict Machine Learning Model](https://github.com/beto1810/HR_Attrition_Predictors)
 
 
 ---
